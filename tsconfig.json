@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    /* Project Structure */
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    /* Language & Environment */
+    "target": "ES2019",
+    "module": "CommonJS",
+
+    /* Strictness */
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Interop & Safety */
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
